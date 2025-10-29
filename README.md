@@ -1,10 +1,8 @@
 ````markdown
 # 🧠 Hello World AI + LangChain — Práctica Resumen
 
-**Estudiante:** Manuel Barrera  
-**Curso:** IA en el Aula — Nivel Avanzado  
-**Profesor:** Luis Daniel Benavides Navarro  
-**Fecha:** Octubre 2025  
+Estudiante: Manuel Barrera    
+Profesor: Luis Daniel Benavides Navarro    
 
 ---
 
