@@ -1,6 +1,5 @@
 # Taller-en-clase-AREP
 ---
-
 En esta parte inicial se comienza el reconocimiento del uso de IA en diferentes ejemplos haciendo un "Hello World" con Python y OpenAI.
 
 Se necesita:
