@@ -9,3 +9,5 @@ Se necesita:
 - Editor de texto o entorno como Visual Studio Code o Jupyter Notebook.
 
 - Se usa una llave privada para el desarrollo.
+
+- El desarrollo de los ejercicios esta en la rama parte 2 final.
